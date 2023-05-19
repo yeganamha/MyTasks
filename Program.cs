@@ -11,7 +11,7 @@ namespace Tasks
         public string ValidDate { get; set; }
         public string FullName { get; set; }
         public string Bank { get; set; }
-        public decimal Balance { get; set; }
+        public decimal Balance { get;  private set; }
 
         public void Medaxil(decimal money)
         {
