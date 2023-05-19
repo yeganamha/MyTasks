@@ -44,7 +44,7 @@ namespace Tasks
                 Console.WriteLine($" Card Card owner is {MyCard.FullName}");
                 Console.WriteLine($" Bank is {MyCard.Bank}");
                 Console.WriteLine($"Your CVV Code is {MyCard.CVV}");
-                Console.WriteLine($"Your Card Valid Date is {MyCard.ValidDate}");
+                Console.WriteLine($"Your  Valid Date of card is {MyCard.ValidDate}");
                 Console.WriteLine($"Your balance is {MyCard.Balance} AZN");
 
 
