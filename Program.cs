@@ -38,7 +38,7 @@ namespace Tasks
                 MyCard.FullName = "Yegana Hasanova";
                 MyCard.Bank = "KapitalBank";
                 MyCard.Balance = 120.5m;
-                MyCard.Medaxil(100);
+                MyCard.Medaxil(80);
                 MyCard.Mexaric(20.5m);
 
                 Console.WriteLine($" Card Card owner is {MyCard.FullName}");
